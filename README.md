@@ -1,1 +1,1 @@
-# FrontEnd-Paradigma
+# FrontEnd-RetryGuard-Paradigma
