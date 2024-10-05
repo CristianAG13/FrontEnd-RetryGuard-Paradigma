@@ -1,0 +1,6 @@
+@RetryGuard_HostAddress = http://localhost:5002
+
+GET {{RetryGuard_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
